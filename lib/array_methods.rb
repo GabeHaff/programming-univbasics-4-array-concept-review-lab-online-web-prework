@@ -3,10 +3,7 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  counter= 0 
-  while counter < array.length do 
-    if max < array[counter]
-      max= array[counter]
+  array.max
 end
 counter+=1 
 def find_min_value(array)
