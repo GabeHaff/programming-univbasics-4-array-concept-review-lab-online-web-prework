@@ -1,4 +1,4 @@
-#testing stopped working, despite refreshes, but greenlight from testing was on.
+
 def find_element_index(array, value_to_find)
   array.index(value_to_find)
 end
